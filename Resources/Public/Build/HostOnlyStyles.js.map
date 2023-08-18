@@ -1,7 +1,0 @@
-{
-  "version": 3,
-  "sources": ["stylePlugin:/var/lib/jenkins/workspace/neos-ui-build-minified/packages/neos-ui/src/styleHostOnly.css"],
-  "sourcesContent": ["export default {};import \"ni:sha-256;oLCOtvhgxm0cVQQUspbKppx4D_LntpxToIR5cVgP3ls\";"],
-  "mappings": "MAAA,IAAOA,EAAQ,CAAC",
-  "names": ["styleHostOnly_default"]
-}
